@@ -1,0 +1,25 @@
+{
+    "name": "e733b10903d7d85d09ff54c2beab8691",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node bin\/www"
+    },
+    "dependencies": {
+        "angular": "1.6.4",
+        "body-parser": "~1.17.1",
+        "bootstrap": "3.3.7",
+        "bootstrap-datepicker": "1.6.4",
+        "cookie-parser": "~1.4.3",
+        "datatables": "1.10.13",
+        "debug": "~2.6.3",
+        "express": "~4.15.2",
+        "jade": "~1.11.0",
+        "jquery": "3.2.1",
+        "jqueryui": "1.11.1",
+        "less-middleware": "~2.2.0",
+        "morgan": "~1.8.1",
+        "select2-bootstrap-css": "1.4.6",
+        "serve-favicon": "~2.4.2"
+    }
+}
